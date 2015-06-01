@@ -1,0 +1,10 @@
+{
+	"name" : "hxsdl",
+	"url" : "https://github.com/akadjoker/hxsdl",
+	"license" : "BSD",
+    "description" : "SDL Bindings",
+    "version" : "0.0.1",
+	"releasenote" : "",
+	"contributors" : ["ncannasse"],
+	"dependencies" : { "format" : "" }
+}

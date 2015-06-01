@@ -1,0 +1,14 @@
+<xml>
+
+<files id="haxe">
+	<compilerflag value="-I${haxelib:hxsdl}/SDL2/include"/>
+	<compilerflag value="-I${haxelib:hxsdl}"/>
+</files>
+
+<target id="haxe">
+	<lib name="${haxelib:hxsdl}/SDL2/lib/x86/SDL2.lib"/>
+	<lib name="opengl32.lib"/>
+	<lib name="winmm.lib"/>
+</target>
+
+</xml>
